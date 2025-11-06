@@ -1,0 +1,3 @@
+[run]
+omit =
+    app/create_repo_and_push.py
