@@ -1,10 +1,4 @@
-flask
-pytest
-python-dotenv
+pandas
+openpyxl
 requests
-detect-secrets
-selenium
-webdriver-manager
-pynacl
-pytest-cov
-pytest-benchmark
+python-dotenv
